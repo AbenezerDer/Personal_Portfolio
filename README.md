@@ -9,4 +9,3 @@ In this project, we will create a full Personal Development Portfolio. We're goi
 
 Setup:
 - run ```npm i && npm start```
-
